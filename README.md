@@ -16,7 +16,7 @@ I am deeply fascinated by how to solve problems, write clean code, learn how com
 I am exploring and building projects with:
 
 - Languages: Python, C#
-- Tools & OS: GitHub, Rider, Linux/Windows
+- Tools & OS: Rider, Linux/Windows
 - Currently Learning: OOP Principles
 
 ---
