@@ -7,7 +7,7 @@ I am a high school student taking my first definitive steps into the world of IT
 
 - 🎓 School: Information Technology at SPŠE Ječná, Prague
 - 📍 Location: Prague, Czech Republic
-- 💡 Interests: Automation, Artificial Intelligence, Cybersecurity, Embedded systems
+- 💡 Interests: Automation, Artificial Intelligence, Coding, Cryptography
 
 ---
 
